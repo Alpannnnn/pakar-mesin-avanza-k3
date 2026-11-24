@@ -43,3 +43,15 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Platform folders (opsional, sesuaikan dengan kebutuhan collab)
+linux/
+macos/
+windows/
+
+# File metadata & IDE lokal
+.metadata
+*.iml
+
+# Lockfile package (opsional saat collab)
+pubspec.lock
